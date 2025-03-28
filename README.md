@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ## 🎓 Education
 - **B.Tech in Computer Engineering**  
   **Institute of Infrastructure Technology Research and Management (IITRAM), Ahmedabad**  
-  - CGPA: **9.60/10**  
-  - Duration: **2022 – 2026**
+  - CGPA: **9.63/10**  
+  - Duration: **2022 – Present**
 
 ---
 
@@ -55,19 +55,19 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ---
 
 ## 🚀 Projects
-### [Course Management System](https://github.com/Coding1610/Course_Management_System)  
+### [Course Management System](https://github.com/Ompatel28102004/Course-Management-System)
 **Technologies:** React, Node.js, Express, MongoDB  
 - Built a platform with features like online attendance, fee payment, forums, and assignment submissions.  
 
-### [Socket-Based Chat Application](https://github.com/Curious-nova/socket-chat-app)  
+### [Socket-Based Chat Application](https://github.com/Ompatel28102004/ChitChat-web-app)  
 **Technologies:** React, Node.js, Zustand, Socket.IO  
 - Created a real-time encrypted chat app with features like group messaging and file sharing.  
 
-### [Stock Market Prediction with Sentiment Analysis](https://github.com/Ompatel28102004)  
+### [Stock Market Prediction with Sentiment Analysis](https://github.com/Ompatel28102004/Stock-Market-Price-Prediction)  
 **Technologies:** Python, Pandas, NLTK, Scikit-learn  
 - Used sentiment analysis and machine learning to predict stock market trends.  
 
-### [Travel Booking System](https://github.com/Ompatel28102004/TRAVEL-BOOKING-SYSTEM)  
+### [Travel Booking System](https://github.com/Curious-nova/College-Project)  
 **Technologies:** React, Node.js, MySQL  
 - Designed a booking platform for seamless planning and service management.
 
