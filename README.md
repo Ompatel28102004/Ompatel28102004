@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - 🏢 LinkedIn: [Om Patel](https://www.linkedin.com/in/om-patel-36aa25257)
 - 🔗 GitHub: [Ompatel28102004](https://github.com/Ompatel28102004)
 - 📄 Resume: [Download PDF](https://drive.google.com/file/d/1vaH_RENreZ39n4yc2yxAH4ab7A4LTxkf/view?usp=drive_link)
-  
+- ![Profile views](https://komarev.com/ghpvc/?username=Ompatel28102004&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🎓 Education
