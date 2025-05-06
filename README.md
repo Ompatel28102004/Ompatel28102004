@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Om Patel
 
-**💻 Full Stack Developer | 📊 Data Enthusiast | 🎓 Computer Engineering Student at IITRAM**  
+**💻 Full Stack Web Developer | 📊 Data Enthusiast | 🎓 Computer Engineering Student at IITRAM**  
 Welcome to my GitHub profile! I'm passionate about building scalable web applications, exploring AI/ML, and solving challenging problems.  
 
 ---
@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - 🌐 Portfolio: [View Here](https://portfolio-eta-nine-92.vercel.app/)
 - 🏢 LinkedIn: [Om Patel](https://www.linkedin.com/in/om-patel-36aa25257)
 - 🔗 GitHub: [Ompatel28102004](https://github.com/Ompatel28102004)
-
+- 📄 Resume: [Download PDF](https://drive.google.com/file/d/1vaH_RENreZ39n4yc2yxAH4ab7A4LTxkf/view?usp=drive_link)
+  
 ---
 
 ## 🎓 Education
@@ -24,9 +25,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ## 💼 Work Experience
 ### Python Full Stack Developer Intern  
 **YADS Technologies Pvt. Ltd.** (June 2024 – July 2024)  
-- Worked on full stack development, fetching and storing data in PostgreSQL using APIs.  
-- Consolidated multi-API data into streamlined tables using keyword optimizations.  
-- Explored sentiment analysis to derive insights from user feedback.  
+- Integrated multiple APIs to fetch and merge real-time data into a centralized PostgreSQL table structured with a keyword-based organization.
+- Designed efficient SQL queries to enable streamlined data retrieval, enhancing performance and searchability across datasets. 
+-  Implemented sentiment analysis techniques, enhancing feedback processing and actionable insights.  
 
 ---
 
@@ -38,10 +39,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ### Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
@@ -59,9 +61,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 **Technologies:** React, Node.js, Express, MongoDB  
 - Built a platform with features like online attendance, fee payment, forums, and assignment submissions.  
 
-### [Socket-Based Chat Application](https://github.com/Ompatel28102004/ChitChat-web-app)  
+### [ChitChat – Real‑Time Chat App](https://github.com/Ompatel28102004/ChitChat-web-app)  
 **Technologies:** React, Node.js, Zustand, Socket.IO  
-- Created a real-time encrypted chat app with features like group messaging and file sharing.  
+- Built an encrypted chat application with direct/group messaging, file sharing, emoji support, and live deployment at [Live application](https://chitchat-neub.onrender.com).
+
+### [ClipboardSync](https://github.com/Ompatel28102004/ClipboardSync)  
+**Technologies:** React Native · Electron.js · Node.js · WebSockets
+- Developed a cross‑platform clipboard syncing tool for mobile & desktop over Wi‑Fi, using peer‑to‑peer WebSocket communication with in‑RAM storage.
 
 ### [Stock Market Prediction with Sentiment Analysis](https://github.com/Ompatel28102004/Stock-Market-Price-Prediction)  
 **Technologies:** Python, Pandas, NLTK, Scikit-learn  
